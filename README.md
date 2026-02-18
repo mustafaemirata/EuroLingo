@@ -1,17 +1,72 @@
-# eurolingo
+# 📚 Eurolingo
 
-A new Flutter project.
+Modern, hızlı ve motive edici bir kelime öğrenme uygulaması.  
+Tekrar, quiz ve düello sistemiyle öğrenmeyi kalıcı hale getirir.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Öne Çıkan Özellikler
 
-A few resources to get you started if this is your first Flutter project:
+### 🏠 Ana Modül
+![Ana](TANITIM/ana.png)
+Dinamik ve modern ana sayfa ile tüm özelliklere hızlı erişim sağla.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# EuroLingo
+### 🃏 Kartlarla Öğrenme
+![Kartlar](TANITIM/kart.png)
+Kelime kartlarıyla hızlı öğren, tekrar et ve hafızana kazı.
+
+---
+
+### 🔊 Telaffuz Desteği
+![Fiil](TANITIM/fiil.png)
+Kelimelerin doğru okunuşunu dinleyerek telaffuz pratikleri yap.
+
+---
+
+### 💬 Gramer & Örnek Cümleler
+![Grammer](TANITIM/grammer.png)
+Kelimeleri sadece tekil halleriyle değil, gerçek cümle kullanımları içinde gör.
+
+---
+
+### ⭐ Cüzdan (Favoriler)
+![Cüzdan](TANITIM/cuzdan.png)
+Önemli bulduğun kelimeleri cüzdanına kaydet ve dilediğin zaman tekrar et.
+
+---
+
+### 🧠 Quiz Modu
+![Quiz](TANITIM/kelimeler.png)
+Farklı kategorilerdeki testlerle seviyeni ölç ve gelişimini takip et.
+
+---
+
+### ⚔️ Düello
+![Duello](TANITIM/duello.png)
+Arkadaşlarınla veya diğer kullanıcılarla yarışarak öğrenmeyi eğlenceli hale getir.
+
+---
+
+### 📖 Hikaye ile Öğrenme
+![Hikaye](TANITIM/hikaye1.png)
+Kelimeleri hikaye bağlamında öğrenerek anlam bütünlüğünü kavra.
+
+---
+
+## 🎯 Neden Eurolingo?
+- **Hızlı Öğrenme:** Odaklanmış içeriklerle vakit kaybetmeden ilerle.
+- **Düzenli Tekrar:** Unutmaya karşı etkili tekrar sistemleri.
+- **Oyunlaştırma:** Klasik yöntemlerin aksine sıkılmadan, yarışarak öğren.
+
+---
+
+## 🛠 Kullanılan Teknolojiler
+- **Framework:** Flutter
+- **Backend:** Firebase
+
+---
+
+## 👤 Geliştirici
+**Mustafa Emir Ata**
