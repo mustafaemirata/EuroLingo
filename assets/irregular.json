@@ -1,0 +1,584 @@
+[
+  {
+    "V1": "awake",
+    "V2": "awoke",
+    "V3": "awoken",
+    "Turkish": "uyanmak"
+  },
+  {
+    "V1": "be",
+    "V2": "was, were",
+    "V3": "been",
+    "Turkish": "olmak"
+  },
+  {
+    "V1": "beat",
+    "V2": "beat",
+    "V3": "beaten",
+    "Turkish": "vurmak"
+  },
+  {
+    "V1": "become",
+    "V2": "became",
+    "V3": "become",
+    "Turkish": "olmak"
+  },
+  {
+    "V1": "begin",
+    "V2": "began",
+    "V3": "begun",
+    "Turkish": "başlamak"
+  },
+  {
+    "V1": "bend",
+    "V2": "bent",
+    "V3": "bent",
+    "Turkish": "bükmek"
+  },
+  {
+    "V1": "bet",
+    "V2": "bet",
+    "V3": "bet",
+    "Turkish": "bahse girmek"
+  },
+  {
+    "V1": "bid",
+    "V2": "bid",
+    "V3": "bid",
+    "Turkish": "emretmek"
+  },
+  {
+    "V1": "bite",
+    "V2": "bit",
+    "V3": "bitten",
+    "Turkish": "ısırmak"
+  },
+  {
+    "V1": "blow",
+    "V2": "blew",
+    "V3": "blown",
+    "Turkish": "esmek"
+  },
+  {
+    "V1": "break",
+    "V2": "broke",
+    "V3": "broken",
+    "Turkish": "kırmak"
+  },
+  {
+    "V1": "bring",
+    "V2": "brought",
+    "V3": "brought",
+    "Turkish": "getirmek"
+  },
+  {
+    "V1": "broadcast",
+    "V2": "broadcast",
+    "V3": "broadcast",
+    "Turkish": "yayımlamak"
+  },
+  {
+    "V1": "build",
+    "V2": "built",
+    "V3": "built",
+    "Turkish": "inşa etmek"
+  },
+  {
+    "V1": "burst",
+    "V2": "burst",
+    "V3": "burst",
+    "Turkish": "patlamak"
+  },
+  {
+    "V1": "burn",
+    "V2": "burned/burnt",
+    "V3": "burned/burnt",
+    "Turkish": "yakmak"
+  },
+  {
+    "V1": "buy",
+    "V2": "bought",
+    "V3": "bought",
+    "Turkish": "satın almak"
+  },
+  {
+    "V1": "catch",
+    "V2": "cought",
+    "V3": "cought",
+    "Turkish": "yakalamak"
+  },
+  {
+    "V1": "choose",
+    "V2": "chose",
+    "V3": "chosen",
+    "Turkish": "seçmek"
+  },
+  {
+    "V1": "come",
+    "V2": "came",
+    "V3": "come",
+    "Turkish": "gelmek"
+  },
+  {
+    "V1": "cost",
+    "V2": "cost",
+    "V3": "cost",
+    "Turkish": "değer biçmek"
+  },
+  {
+    "V1": "creep",
+    "V2": "crept",
+    "V3": "crept",
+    "Turkish": "emeklemek"
+  },
+  {
+    "V1": "cut",
+    "V2": "cut",
+    "V3": "cut",
+    "Turkish": "kesmek"
+  },
+  {
+    "V1": "deal",
+    "V2": "dealt",
+    "V3": "dealt",
+    "Turkish": "anlaşmak"
+  },
+  {
+    "V1": "dig",
+    "V2": "dug",
+    "V3": "dug",
+    "Turkish": "kazmak"
+  },
+  {
+    "V1": "do",
+    "V2": "did",
+    "V3": "done",
+    "Turkish": "yapmak"
+  },
+  {
+    "V1": "draw",
+    "V2": "drew",
+    "V3": "drawn",
+    "Turkish": "çekmek"
+  },
+  {
+    "V1": "dream",
+    "V2": "dreamed/dreamt",
+    "V3": "dreamed/dreamt",
+    "Turkish": "rüya görmek"
+  },
+  {
+    "V1": "drive",
+    "V2": "drove",
+    "V3": "driven",
+    "Turkish": "sürmek"
+  },
+  {
+    "V1": "drink",
+    "V2": "drank",
+    "V3": "drunk",
+    "Turkish": "içmek"
+  },
+  {
+    "V1": "eat",
+    "V2": "ate",
+    "V3": "eaten",
+    "Turkish": "yemek yemek"
+  },
+  {
+    "V1": "fall",
+    "V2": "fell",
+    "V3": "fallen",
+    "Turkish": "düşmek"
+  },
+  {
+    "V1": "feed",
+    "V2": "fed",
+    "V3": "fed",
+    "Turkish": "beslemek"
+  },
+  {
+    "V1": "feel",
+    "V2": "felt",
+    "V3": "felt",
+    "Turkish": "hissetmek"
+  },
+  {
+    "V1": "fight",
+    "V2": "fought",
+    "V3": "fought",
+    "Turkish": "dövüşmek"
+  },
+  {
+    "V1": "find",
+    "V2": "found",
+    "V3": "found",
+    "Turkish": "bulmak"
+  },
+  {
+    "V1": "flee",
+    "V2": "fled",
+    "V3": "fled",
+    "Turkish": "firar etmek"
+  },
+  {
+    "V1": "fly",
+    "V2": "flew",
+    "V3": "flown",
+    "Turkish": "uçmak"
+  },
+  {
+    "V1": "forbid",
+    "V2": "forbade",
+    "V3": "forbidden",
+    "Turkish": "yasaklamak"
+  },
+  {
+    "V1": "forget",
+    "V2": "forgot",
+    "V3": "forgotten",
+    "Turkish": "unutmak"
+  },
+  {
+    "V1": "forgive",
+    "V2": "forgave",
+    "V3": "forgiven",
+    "Turkish": "affetmek"
+  },
+  {
+    "V1": "freeze",
+    "V2": "froze",
+    "V3": "frozen",
+    "Turkish": "donmak"
+  },
+  {
+    "V1": "get",
+    "V2": "got",
+    "V3": "gotten",
+    "Turkish": "elde etmek"
+  },
+  {
+    "V1": "give",
+    "V2": "gave",
+    "V3": "given",
+    "Turkish": "vermek"
+  },
+  {
+    "V1": "go",
+    "V2": "went",
+    "V3": "gone",
+    "Turkish": "gitmek"
+  },
+  {
+    "V1": "grow",
+    "V2": "grew",
+    "V3": "grown",
+    "Turkish": "büyümek"
+  },
+  {
+    "V1": "hang",
+    "V2": "hung",
+    "V3": "hung",
+    "Turkish": "asmak"
+  },
+  {
+    "V1": "have",
+    "V2": "had",
+    "V3": "had",
+    "Turkish": "sahip olmak"
+  },
+  {
+    "V1": "hear",
+    "V2": "heard",
+    "V3": "heard",
+    "Turkish": "duymak"
+  },
+  {
+    "V1": "hide",
+    "V2": "hid",
+    "V3": "hidden",
+    "Turkish": "saklamak"
+  },
+  {
+    "V1": "hit",
+    "V2": "hit",
+    "V3": "hit",
+    "Turkish": "vurmak"
+  },
+  {
+    "V1": "hold",
+    "V2": "held",
+    "V3": "held",
+    "Turkish": "tutmak"
+  },
+  {
+    "V1": "hurt",
+    "V2": "hurt",
+    "V3": "hurt",
+    "Turkish": "yaralanmak"
+  },
+  {
+    "V1": "keep",
+    "V2": "kept",
+    "V3": "kept",
+    "Turkish": "saklamak"
+  },
+  {
+    "V1": "know",
+    "V2": "knew",
+    "V3": "known",
+    "Turkish": "bilmek"
+  },
+  {
+    "V1": "lay",
+    "V2": "laid",
+    "V3": "laid",
+    "Turkish": "yaymak"
+  },
+  {
+    "V1": "lead",
+    "V2": "led",
+    "V3": "led",
+    "Turkish": "rehberlik etmek"
+  },
+  {
+    "V1": "learn",
+    "V2": "learned/learnt",
+    "V3": "learned/learnt",
+    "Turkish": "öğretmek"
+  },
+  {
+    "V1": "leave",
+    "V2": "left",
+    "V3": "left",
+    "Turkish": "ayrılmak"
+  },
+  {
+    "V1": "lend",
+    "V2": "lent",
+    "V3": "lent",
+    "Turkish": "ödünç vermek"
+  },
+  {
+    "V1": "let",
+    "V2": "let",
+    "V3": "let",
+    "Turkish": "izin vermek"
+  },
+  {
+    "V1": "lie",
+    "V2": "lay",
+    "V3": "lain",
+    "Turkish": "yalan söylemek"
+  },
+  {
+    "V1": "lose",
+    "V2": "lost",
+    "V3": "lost",
+    "Turkish": "kaybetmek"
+  },
+  {
+    "V1": "make",
+    "V2": "made",
+    "V3": "made",
+    "Turkish": "yapmak"
+  },
+  {
+    "V1": "mean",
+    "V2": "meant",
+    "V3": "meant",
+    "Turkish": "anlamına gelmek"
+  },
+  {
+    "V1": "meet",
+    "V2": "met",
+    "V3": "met",
+    "Turkish": "buluşmak"
+  },
+  {
+    "V1": "pay",
+    "V2": "paid",
+    "V3": "paid",
+    "Turkish": "ödemek"
+  },
+  {
+    "V1": "put",
+    "V2": "put",
+    "V3": "put",
+    "Turkish": "koymak"
+  },
+  {
+    "V1": "read",
+    "V2": "read",
+    "V3": "read",
+    "Turkish": "okumak"
+  },
+  {
+    "V1": "ride",
+    "V2": "rode",
+    "V3": "ridden",
+    "Turkish": "binmek"
+  },
+  {
+    "V1": "ring",
+    "V2": "rang",
+    "V3": "rung",
+    "Turkish": "çalmak"
+  },
+  {
+    "V1": "rise",
+    "V2": "rose",
+    "V3": "risen",
+    "Turkish": "yükselmek"
+  },
+  {
+    "V1": "run",
+    "V2": "ran",
+    "V3": "run",
+    "Turkish": "koşmak"
+  },
+  {
+    "V1": "say",
+    "V2": "said",
+    "V3": "said",
+    "Turkish": "söylemek"
+  },
+  {
+    "V1": "see",
+    "V2": "saw",
+    "V3": "seen",
+    "Turkish": "görmek"
+  },
+  {
+    "V1": "sell",
+    "V2": "sold",
+    "V3": "sold",
+    "Turkish": "satmak"
+  },
+  {
+    "V1": "send",
+    "V2": "sent",
+    "V3": "sent",
+    "Turkish": "göndermek"
+  },
+  {
+    "V1": "show",
+    "V2": "showed",
+    "V3": "showed/shown",
+    "Turkish": "göstermek"
+  },
+  {
+    "V1": "shut",
+    "V2": "shut",
+    "V3": "shut",
+    "Turkish": "kapamak"
+  },
+  {
+    "V1": "sing",
+    "V2": "sang",
+    "V3": "sung",
+    "Turkish": "şarkı söylemek"
+  },
+  {
+    "V1": "sit",
+    "V2": "sat",
+    "V3": "sat",
+    "Turkish": "oturmak"
+  },
+  {
+    "V1": "sleep",
+    "V2": "slept",
+    "V3": "slept",
+    "Turkish": "uyumak"
+  },
+  {
+    "V1": "speak",
+    "V2": "spoke",
+    "V3": "spoken",
+    "Turkish": "konuşmak"
+  },
+  {
+    "V1": "spend",
+    "V2": "spent",
+    "V3": "spent",
+    "Turkish": "harcamak"
+  },
+  {
+    "V1": "stand",
+    "V2": "stood",
+    "V3": "stood",
+    "Turkish": "ayakta durmak"
+  },
+  {
+    "V1": "swim",
+    "V2": "swam",
+    "V3": "swum",
+    "Turkish": "yüzmek"
+  },
+  {
+    "V1": "take",
+    "V2": "took",
+    "V3": "taken",
+    "Turkish": "almak"
+  },
+  {
+    "V1": "teach",
+    "V2": "taught",
+    "V3": "taught",
+    "Turkish": "öğretmek"
+  },
+  {
+    "V1": "tear",
+    "V2": "tore",
+    "V3": "torn",
+    "Turkish": "yırtmak"
+  },
+  {
+    "V1": "tell",
+    "V2": "told",
+    "V3": "told",
+    "Turkish": "anlatmak"
+  },
+  {
+    "V1": "think",
+    "V2": "thought",
+    "V3": "thought",
+    "Turkish": "düşünmek"
+  },
+  {
+    "V1": "throw",
+    "V2": "threw",
+    "V3": "thrown",
+    "Turkish": "fırlatmak"
+  },
+  {
+    "V1": "understand",
+    "V2": "understood",
+    "V3": "understood",
+    "Turkish": "anlamak"
+  },
+  {
+    "V1": "wake",
+    "V2": "woke",
+    "V3": "woken",
+    "Turkish": "uyanmak"
+  },
+  {
+    "V1": "wear",
+    "V2": "wore",
+    "V3": "worn",
+    "Turkish": "giymek"
+  },
+  {
+    "V1": "win",
+    "V2": "won",
+    "V3": "won",
+    "Turkish": "kazanmak"
+  },
+  {
+    "V1": "write",
+    "V2": "wrote",
+    "V3": "written",
+    "Turkish": "yazmak"
+  }
+]

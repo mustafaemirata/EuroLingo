@@ -1,0 +1,2441 @@
+[
+    {
+        "V1": "Accept",
+        "V2_V3": "Accepted",
+        "Turkish": "Kabul etmek, onaylamak"
+    },
+    {
+        "V1": "Add",
+        "V2_V3": "Added",
+        "Turkish": "Eklemek, arttırmak"
+    },
+    {
+        "V1": "Admire",
+        "V2_V3": "Admired",
+        "Turkish": "Hayran kalmak, hayran olmak"
+    },
+    {
+        "V1": "Admit",
+        "V2_V3": "Admitted",
+        "Turkish": "Kabul etmek, itiraf etmek"
+    },
+    {
+        "V1": "Advise",
+        "V2_V3": "Advised",
+        "Turkish": "Fikir vermek, bildirmek"
+    },
+    {
+        "V1": "Afford",
+        "V2_V3": "Afforded",
+        "Turkish": "Parası yetmek, zaman ayırabilmek"
+    },
+    {
+        "V1": "Agree",
+        "V2_V3": "Agreed",
+        "Turkish": "Anlaşmak, uymak"
+    },
+    {
+        "V1": "Alert",
+        "V2_V3": "Alerted",
+        "Turkish": "Uyarmak, alarma geçmek"
+    },
+    {
+        "V1": "Allow",
+        "V2_V3": "Allowed",
+        "Turkish": "İzin vermek, kabul etmek"
+    },
+    {
+        "V1": "Amuse",
+        "V2_V3": "Amused",
+        "Turkish": "Eğlendirmek, neşelendirmek"
+    },
+    {
+        "V1": "Analyze",
+        "V2_V3": "Analyzed",
+        "Turkish": "Analiz etmek"
+    },
+    {
+        "V1": "Announce",
+        "V2_V3": "Announced",
+        "Turkish": "Duyumak, ilan etmek"
+    },
+    {
+        "V1": "Annoy",
+        "V2_V3": "Annoyed",
+        "Turkish": "Kızdırmak, rahatsız etmek"
+    },
+    {
+        "V1": "Apologise",
+        "V2_V3": "Apologised",
+        "Turkish": "Özür dilemek"
+    },
+    {
+        "V1": "Appear",
+        "V2_V3": "Appeared",
+        "Turkish": "Görünmek, belirmek"
+    },
+    {
+        "V1": "Applaud",
+        "V2_V3": "Applauded",
+        "Turkish": "Alkışlamak, beğenmek"
+    },
+    {
+        "V1": "Appreciate",
+        "V2_V3": "Appreciated",
+        "Turkish": "Takdir etmek"
+    },
+    {
+        "V1": "Approve",
+        "V2_V3": "Approved",
+        "Turkish": "Onaylamak"
+    },
+    {
+        "V1": "Argue",
+        "V2_V3": "Argued",
+        "Turkish": "Tartışmak, savunmak"
+    },
+    {
+        "V1": "Arrange",
+        "V2_V3": "Arranged",
+        "Turkish": "Düzenlemek, planlamak"
+    },
+    {
+        "V1": "Arrest",
+        "V2_V3": "Arrested",
+        "Turkish": "Tutuklamak, önlemek"
+    },
+    {
+        "V1": "Arrive",
+        "V2_V3": "Arrived",
+        "Turkish": "Ayrılmak"
+    },
+    {
+        "V1": "Ask",
+        "V2_V3": "Asked",
+        "Turkish": "Sormak, davet etmek, rica etmek"
+    },
+    {
+        "V1": "Attach",
+        "V2_V3": "Attached",
+        "Turkish": "Tutturmak"
+    },
+    {
+        "V1": "Attack",
+        "V2_V3": "Attacked",
+        "Turkish": "Saldırmak, hücum etmek"
+    },
+    {
+        "V1": "Attempt",
+        "V2_V3": "Attempted",
+        "Turkish": "Denemek, girişimde bulunmak"
+    },
+    {
+        "V1": "Attend",
+        "V2_V3": "Attended",
+        "Turkish": "Katımak"
+    },
+    {
+        "V1": "Attract",
+        "V2_V3": "Attracted",
+        "Turkish": "Cezbetmek"
+    },
+    {
+        "V1": "Avoid",
+        "V2_V3": "Avoided",
+        "Turkish": "Önlemek, kaçınmak"
+    },
+    {
+        "V1": "Back",
+        "V2_V3": "Backed",
+        "Turkish": "Destek olmak, arka çıkmak"
+    },
+    {
+        "V1": "Bake",
+        "V2_V3": "Baked",
+        "Turkish": "Fırında pişirmek"
+    },
+    {
+        "V1": "Balance",
+        "V2_V3": "Balanced",
+        "Turkish": "Dengelemek, karşılaştırmak"
+    },
+    {
+        "V1": "Ban",
+        "V2_V3": "Banned",
+        "Turkish": "Yasaklamak, boykot etmek"
+    },
+    {
+        "V1": "Bare",
+        "V2_V3": "Bared",
+        "Turkish": "Açmak, soymak"
+    },
+    {
+        "V1": "Bat",
+        "V2_V3": "Batted",
+        "Turkish": "Vuruş yapmak"
+    },
+    {
+        "V1": "Bathe",
+        "V2_V3": "Bathed",
+        "Turkish": "Yıkanmak"
+    },
+    {
+        "V1": "Battle",
+        "V2_V3": "Battled",
+        "Turkish": "Savaşmak"
+    },
+    {
+        "V1": "Beam",
+        "V2_V3": "Beamed",
+        "Turkish": "Parlamak"
+    },
+    {
+        "V1": "Beg",
+        "V2_V3": "Begged",
+        "Turkish": "Yalvarmak"
+    },
+    {
+        "V1": "Behave",
+        "V2_V3": "Behaved",
+        "Turkish": "Davranmak"
+    },
+    {
+        "V1": "Bleach",
+        "V2_V3": "Bleached",
+        "Turkish": "Ağartmak, beyazlatmak"
+    },
+    {
+        "V1": "Bless",
+        "V2_V3": "Blessed",
+        "Turkish": "Şükretmek, kutsal saymak"
+    },
+    {
+        "V1": "Blind",
+        "V2_V3": "Blinded",
+        "Turkish": "Kör etmek"
+    },
+    {
+        "V1": "Blink",
+        "V2_V3": "Blinked",
+        "Turkish": "Göz kırpmak"
+    },
+    {
+        "V1": "Blush",
+        "V2_V3": "Blushed",
+        "Turkish": "Kızarmak, yüzü kızarmak"
+    },
+    {
+        "V1": "Boast",
+        "V2_V3": "Boasted",
+        "Turkish": "Övünmek, övünç duymak"
+    },
+    {
+        "V1": "Boil",
+        "V2_V3": "Boiled",
+        "Turkish": "Kaynatmak, köpürtmek"
+    },
+    {
+        "V1": "Bomb",
+        "V2_V3": "Bombed",
+        "Turkish": "Bombalamak, başarısızlığa uğramak"
+    },
+    {
+        "V1": "Book",
+        "V2_V3": "Booked",
+        "Turkish": "Rezervasyon yapmak, kaydetmek"
+    },
+    {
+        "V1": "Bore",
+        "V2_V3": "Bored",
+        "Turkish": "Sıkmak, bunaltmak"
+    },
+    {
+        "V1": "Borrow",
+        "V2_V3": "Borrowed",
+        "Turkish": "Ödünç almak"
+    },
+    {
+        "V1": "Bounce",
+        "V2_V3": "Bounced",
+        "Turkish": "Zıplamak, sıçramak"
+    },
+    {
+        "V1": "Bow",
+        "V2_V3": "Bowed",
+        "Turkish": "Boyun eğmek, eğilmek"
+    },
+    {
+        "V1": "Brake",
+        "V2_V3": "Braked",
+        "Turkish": "Fren yapmak"
+    },
+    {
+        "V1": "Breathe",
+        "V2_V3": "Breathed",
+        "Turkish": "Nefes almak"
+    },
+    {
+        "V1": "Bruise",
+        "V2_V3": "Bruised",
+        "Turkish": "Zedelemek, yaralamak"
+    },
+    {
+        "V1": "Brush",
+        "V2_V3": "Brushed",
+        "Turkish": "Fırçalamak"
+    },
+    {
+        "V1": "Bubble",
+        "V2_V3": "Bubbled",
+        "Turkish": "Fokurdamak, köpürmek"
+    },
+    {
+        "V1": "Bump",
+        "V2_V3": "Bumped",
+        "Turkish": "Çarpmak, toslamak"
+    },
+    {
+        "V1": "Burn",
+        "V2_V3": "Burned",
+        "Turkish": "Yakmak, yanmak"
+    },
+    {
+        "V1": "Bury",
+        "V2_V3": "Buried",
+        "Turkish": "Gömmek, örtmek"
+    },
+    {
+        "V1": "Buzz",
+        "V2_V3": "Buzzed",
+        "Turkish": "Vızıldamak uğuldamak"
+    },
+    {
+        "V1": "Calculate",
+        "V2_V3": "Calculated",
+        "Turkish": "Hesaplamak, tasarlamak"
+    },
+    {
+        "V1": "Call",
+        "V2_V3": "Called",
+        "Turkish": "Çağırmak, telefonla aramak"
+    },
+    {
+        "V1": "Care",
+        "V2_V3": "Cared",
+        "Turkish": "İlgilenmek, özen göstermek"
+    },
+    {
+        "V1": "Carry",
+        "V2_V3": "Carried",
+        "Turkish": "Taşımak"
+    },
+    {
+        "V1": "Carve",
+        "V2_V3": "Carved",
+        "Turkish": "Oymak"
+    },
+    {
+        "V1": "Cause",
+        "V2_V3": "Caused",
+        "Turkish": "Sebep olmak"
+    },
+    {
+        "V1": "Challenge",
+        "V2_V3": "Challenged",
+        "Turkish": "Meydan okumak"
+    },
+    {
+        "V1": "Change",
+        "V2_V3": "Changed",
+        "Turkish": "Değiştirmek, bozdurmak"
+    },
+    {
+        "V1": "Charge",
+        "V2_V3": "Charged",
+        "Turkish": "Şarj etmek, doldurmak"
+    },
+    {
+        "V1": "Chase",
+        "V2_V3": "Chased",
+        "Turkish": "Kovalamak, takip etmek"
+    },
+    {
+        "V1": "Cheat",
+        "V2_V3": "Cheated",
+        "Turkish": "Aldatmak"
+    },
+    {
+        "V1": "Check",
+        "V2_V3": "Checked",
+        "Turkish": "Kontrol etmek, gözden geçirmek"
+    },
+    {
+        "V1": "Chew",
+        "V2_V3": "Chewed",
+        "Turkish": "Çiğnemek, kafa yormak"
+    },
+    {
+        "V1": "Choke",
+        "V2_V3": "Choked",
+        "Turkish": "Boğlumak"
+    },
+    {
+        "V1": "Chop",
+        "V2_V3": "Chopped",
+        "Turkish": "Doğramak"
+    },
+    {
+        "V1": "Claim",
+        "V2_V3": "Claimed",
+        "Turkish": "İddia etmek, sahip çıkmak"
+    },
+    {
+        "V1": "Clap",
+        "V2_V3": "Clapped",
+        "Turkish": "Alkışlamak"
+    },
+    {
+        "V1": "Clean",
+        "V2_V3": "Cleaned",
+        "Turkish": "Temizlemek"
+    },
+    {
+        "V1": "Clip",
+        "V2_V3": "Clipped",
+        "Turkish": "Kırpmak, tutturmak"
+    },
+    {
+        "V1": "Close",
+        "V2_V3": "Closed",
+        "Turkish": "Kapatmak, yaklaşmak"
+    },
+    {
+        "V1": "Coach",
+        "V2_V3": "Coached",
+        "Turkish": "Hazırlamak, yetiştirmek"
+    },
+    {
+        "V1": "Coil",
+        "V2_V3": "Coiled",
+        "Turkish": "Sarmak, dolamak"
+    },
+    {
+        "V1": "Collect",
+        "V2_V3": "Collected",
+        "Turkish": "Toplamak, bir araya getirmek"
+    },
+    {
+        "V1": "Command",
+        "V2_V3": "Commanded",
+        "Turkish": "Emretmek, buyurmak"
+    },
+    {
+        "V1": "Communicate",
+        "V2_V3": "Communicated",
+        "Turkish": "İletişim kurmak"
+    },
+    {
+        "V1": "Compare",
+        "V2_V3": "Compared",
+        "Turkish": "Karşılaştırmak"
+    },
+    {
+        "V1": "Compete",
+        "V2_V3": "Competed",
+        "Turkish": "Yarışmak"
+    },
+    {
+        "V1": "Complain",
+        "V2_V3": "Complained",
+        "Turkish": "Söylenmek, şikâyet etmek"
+    },
+    {
+        "V1": "Complete",
+        "V2_V3": "Completed",
+        "Turkish": "Tamamlamak"
+    },
+    {
+        "V1": "Concentrate",
+        "V2_V3": "Concentrated",
+        "Turkish": "Konsantre olmak"
+    },
+    {
+        "V1": "Concern",
+        "V2_V3": "Concerned",
+        "Turkish": "Endişelenmek"
+    },
+    {
+        "V1": "Confuse",
+        "V2_V3": "Confused",
+        "Turkish": "Kafası karışmak"
+    },
+    {
+        "V1": "Connect",
+        "V2_V3": "Connected",
+        "Turkish": "Bağlanmak"
+    },
+    {
+        "V1": "Consider",
+        "V2_V3": "Considered",
+        "Turkish": "Düşünmek, göz önünde bulundurmak"
+    },
+    {
+        "V1": "Consist",
+        "V2_V3": "Consisted",
+        "Turkish": "Oluşmak, meydana gelmek"
+    },
+    {
+        "V1": "Contain",
+        "V2_V3": "Contained",
+        "Turkish": "İçermek, kapsamak"
+    },
+    {
+        "V1": "Continue",
+        "V2_V3": "Continued",
+        "Turkish": "Devam etmek"
+    },
+    {
+        "V1": "Copy",
+        "V2_V3": "Copied",
+        "Turkish": "Kopya etmek"
+    },
+    {
+        "V1": "Correct",
+        "V2_V3": "Corrected",
+        "Turkish": "Düzeltmek, doğrulamak"
+    },
+    {
+        "V1": "Count",
+        "V2_V3": "Counted",
+        "Turkish": "Saymak"
+    },
+    {
+        "V1": "Cover",
+        "V2_V3": "Covered",
+        "Turkish": "Örtmek, üzerini kapatmak"
+    },
+    {
+        "V1": "Crash",
+        "V2_V3": "Crashed",
+        "Turkish": "Çarpmak, kırılmak"
+    },
+    {
+        "V1": "Crawl",
+        "V2_V3": "Crawled",
+        "Turkish": "Emeklemek, sürünmek"
+    },
+    {
+        "V1": "Crush",
+        "V2_V3": "Crushed",
+        "Turkish": "Ezmek, öğütmek"
+    },
+    {
+        "V1": "Cry",
+        "V2_V3": "Cried",
+        "Turkish": "Ağlamak, çığlık atmak"
+    },
+    {
+        "V1": "Cure",
+        "V2_V3": "Cured",
+        "Turkish": "Tedavi etmek, iyileştirmek"
+    },
+    {
+        "V1": "Curl",
+        "V2_V3": "Curled",
+        "Turkish": "Kıvırmak, dalgalandırmak"
+    },
+    {
+        "V1": "Curve",
+        "V2_V3": "Curved",
+        "Turkish": "Kavis çizmek, eğmek"
+    },
+    {
+        "V1": "Dam",
+        "V2_V3": "Dammed",
+        "Turkish": "Baraj yapmak, set çekmek"
+    },
+    {
+        "V1": "Damage",
+        "V2_V3": "Damaged",
+        "Turkish": "Zarar vermek, bozmak"
+    },
+    {
+        "V1": "Dance",
+        "V2_V3": "Danced",
+        "Turkish": "Dans etmek"
+    },
+    {
+        "V1": "Dare",
+        "V2_V3": "Dared",
+        "Turkish": "Cesaret etmek, cüret etmek"
+    },
+    {
+        "V1": "Decay",
+        "V2_V3": "Decayed",
+        "Turkish": "Bozmak, çürütmek"
+    },
+    {
+        "V1": "Decide",
+        "V2_V3": "Decided",
+        "Turkish": "Karar vermek, sonuca varmak"
+    },
+    {
+        "V1": "Decorate",
+        "V2_V3": "Decorated",
+        "Turkish": "Dekore etmek"
+    },
+    {
+        "V1": "Delay",
+        "V2_V3": "Delayed",
+        "Turkish": "Geç kalmak, ertelemek"
+    },
+    {
+        "V1": "Deliver",
+        "V2_V3": "Delivered",
+        "Turkish": "Teslim etmek, vermek"
+    },
+    {
+        "V1": "Depend",
+        "V2_V3": "Depended",
+        "Turkish": "Bağlı olmak"
+    },
+    {
+        "V1": "Describe",
+        "V2_V3": "Described",
+        "Turkish": "Anlamak, tanımlamak"
+    },
+    {
+        "V1": "Deserve",
+        "V2_V3": "Deserved",
+        "Turkish": "Hak etmek, layık olmak"
+    },
+    {
+        "V1": "Destroy",
+        "V2_V3": "Destroyed",
+        "Turkish": "Zarar vermek, imha etmek"
+    },
+    {
+        "V1": "Detect",
+        "V2_V3": "Detected",
+        "Turkish": "Tespit etmek, belirlemek"
+    },
+    {
+        "V1": "Develop",
+        "V2_V3": "Developed",
+        "Turkish": "Geliştirmek, yükseltmek"
+    },
+    {
+        "V1": "Disagree",
+        "V2_V3": "Disagreed",
+        "Turkish": "Aynı fikirde olmamak"
+    },
+    {
+        "V1": "Disappear",
+        "V2_V3": "Disappeared",
+        "Turkish": "Gözden kaybolmak, yok olmak"
+    },
+    {
+        "V1": "Disapprove",
+        "V2_V3": "Disapproved",
+        "Turkish": "Onaylamamak"
+    },
+    {
+        "V1": "Discover",
+        "V2_V3": "Discovered",
+        "Turkish": "Keşfetmek, bulmak"
+    },
+    {
+        "V1": "Dislike",
+        "V2_V3": "Disliked",
+        "Turkish": "Beğenmemek"
+    },
+    {
+        "V1": "Divide",
+        "V2_V3": "Divided",
+        "Turkish": "Bölmek, sınıflandırmak"
+    },
+    {
+        "V1": "Double",
+        "V2_V3": "Doubled",
+        "Turkish": "İkiye katlamak"
+    },
+    {
+        "V1": "Doubt",
+        "V2_V3": "Doubted",
+        "Turkish": "Şüphe etmek, karar verememek"
+    },
+    {
+        "V1": "Drain",
+        "V2_V3": "Drained",
+        "Turkish": "Boşaltmak, akıtmak"
+    },
+    {
+        "V1": "Dream",
+        "V2_V3": "Dreamed",
+        "Turkish": "Hayal kurmak, rüya görmek"
+    },
+    {
+        "V1": "Dress",
+        "V2_V3": "Dressed",
+        "Turkish": "Giyinmek"
+    },
+    {
+        "V1": "Drip",
+        "V2_V3": "Dripped",
+        "Turkish": "Damlamak, sızdırmak"
+    },
+    {
+        "V1": "Drop",
+        "V2_V3": "Dropped",
+        "Turkish": "Düşürmek, bırakmak"
+    },
+    {
+        "V1": "Drum",
+        "V2_V3": "Drummed",
+        "Turkish": "Davul çalmak, tempo tutmak"
+    },
+    {
+        "V1": "Dry",
+        "V2_V3": "Dried",
+        "Turkish": "Kurutmak"
+    },
+    {
+        "V1": "Dust",
+        "V2_V3": "Dusted",
+        "Turkish": "Toz almak, silkelemek"
+    },
+    {
+        "V1": "Earn",
+        "V2_V3": "Earned",
+        "Turkish": "Para kazanmak, hak etmek"
+    },
+    {
+        "V1": "Educate",
+        "V2_V3": "Educated",
+        "Turkish": "Eğitmek, eğitim vermek"
+    },
+    {
+        "V1": "Embarrass",
+        "V2_V3": "Embarrassed",
+        "Turkish": "Utandırmak"
+    },
+    {
+        "V1": "Employ",
+        "V2_V3": "Employed",
+        "Turkish": "Çalıştırmak, iş vermek"
+    },
+    {
+        "V1": "Empty",
+        "V2_V3": "Emptied",
+        "Turkish": "İçini boşaltmak"
+    },
+    {
+        "V1": "Encourage",
+        "V2_V3": "Encouraged",
+        "Turkish": "Cesaretlendirmek, teşvik etmek"
+    },
+    {
+        "V1": "End",
+        "V2_V3": "Ended",
+        "Turkish": "Bitirmek, bitmek"
+    },
+    {
+        "V1": "Enjoy",
+        "V2_V3": "Enjoyed",
+        "Turkish": "Zevk almak, hoşlanmak, eğlenmek"
+    },
+    {
+        "V1": "Enter",
+        "V2_V3": "Entered",
+        "Turkish": "Girmek, katılmak, kaydetmek"
+    },
+    {
+        "V1": "Entertain",
+        "V2_V3": "Entertained",
+        "Turkish": "Eğlendirmek, oyalamak"
+    },
+    {
+        "V1": "Escape",
+        "V2_V3": "Escaped",
+        "Turkish": "Kaçmak, kurtulmak"
+    },
+    {
+        "V1": "Examine",
+        "V2_V3": "Examined",
+        "Turkish": "İncelemek"
+    },
+    {
+        "V1": "Excite",
+        "V2_V3": "Excited",
+        "Turkish": "Heyecanlandırmak"
+    },
+    {
+        "V1": "Excuse",
+        "V2_V3": "Excused",
+        "Turkish": "Mazur göstermek, izin vermek"
+    },
+    {
+        "V1": "Exercise",
+        "V2_V3": "Exercised",
+        "Turkish": "Egzersiz yapmak"
+    },
+    {
+        "V1": "Exist",
+        "V2_V3": "Existed",
+        "Turkish": "Var olmak, yaşamak"
+    },
+    {
+        "V1": "Expand",
+        "V2_V3": "Expanded",
+        "Turkish": "Genişletmek, büyütmek"
+    },
+    {
+        "V1": "Expect",
+        "V2_V3": "Expected",
+        "Turkish": "Ummak"
+    },
+    {
+        "V1": "Explain",
+        "V2_V3": "Explained",
+        "Turkish": "Açıklamak"
+    },
+    {
+        "V1": "Explode",
+        "V2_V3": "Exploded",
+        "Turkish": "Patlamak"
+    },
+    {
+        "V1": "Face",
+        "V2_V3": "Faced",
+        "Turkish": "Yüzleşmek, bakmak"
+    },
+    {
+        "V1": "Fail",
+        "V2_V3": "Failed",
+        "Turkish": "Başarısız olmak, batmak"
+    },
+    {
+        "V1": "Fancy",
+        "V2_V3": "Fancied",
+        "Turkish": "Hoşlanmak, fantezi kurmak"
+    },
+    {
+        "V1": "Fear",
+        "V2_V3": "Feared",
+        "Turkish": "Korkmak, kuşkulanmak"
+    },
+    {
+        "V1": "Fence",
+        "V2_V3": "Fenced",
+        "Turkish": "Çit ile çevirmek"
+    },
+    {
+        "V1": "Fetch",
+        "V2_V3": "Fetched",
+        "Turkish": "Almak, çekmek"
+    },
+    {
+        "V1": "File",
+        "V2_V3": "Filed",
+        "Turkish": "Dosyalamak"
+    },
+    {
+        "V1": "Fill",
+        "V2_V3": "Filled",
+        "Turkish": "Doldurmak, doyurmak"
+    },
+    {
+        "V1": "Film",
+        "V2_V3": "Filmed",
+        "Turkish": "Film çekmek, filme çekmek"
+    },
+    {
+        "V1": "Fit",
+        "V2_V3": "Fitted",
+        "Turkish": "Uymak, uydurmak, oturmak"
+    },
+    {
+        "V1": "Fix",
+        "V2_V3": "Fixed",
+        "Turkish": "Düzeltmek, tamir etmek"
+    },
+    {
+        "V1": "Flap",
+        "V2_V3": "Flapped",
+        "Turkish": "Kanat çırpmak, sallanmak"
+    },
+    {
+        "V1": "Flash",
+        "V2_V3": "Flashed",
+        "Turkish": "Parlamak, yakmak"
+    },
+    {
+        "V1": "Float",
+        "V2_V3": "Floated",
+        "Turkish": "Süzülmek, dalgalanmak"
+    },
+    {
+        "V1": "Flood",
+        "V2_V3": "Flooded",
+        "Turkish": "Yağdırmak, sel basmak"
+    },
+    {
+        "V1": "Flow",
+        "V2_V3": "Flowed",
+        "Turkish": "Akmak"
+    },
+    {
+        "V1": "Flower",
+        "V2_V3": "Flowered",
+        "Turkish": "Çiçek açmak, çiçeklenmek"
+    },
+    {
+        "V1": "Follow",
+        "V2_V3": "Followed",
+        "Turkish": "Takip etmek"
+    },
+    {
+        "V1": "Force",
+        "V2_V3": "Forced",
+        "Turkish": "Zorlamak"
+    },
+    {
+        "V1": "Form",
+        "V2_V3": "Formed",
+        "Turkish": "Oluşturmak, biçimlendirmek"
+    },
+    {
+        "V1": "Found",
+        "V2_V3": "Founded",
+        "Turkish": "Kurmak, dayandırmak"
+    },
+    {
+        "V1": "Frame",
+        "V2_V3": "Framed",
+        "Turkish": "Çerçevelemek"
+    },
+    {
+        "V1": "Frighten",
+        "V2_V3": "Frightened",
+        "Turkish": "Korkutmak"
+    },
+    {
+        "V1": "Fry",
+        "V2_V3": "Fried",
+        "Turkish": "Kızartmak"
+    },
+    {
+        "V1": "Gaze",
+        "V2_V3": "Gazed",
+        "Turkish": "Dik dik bakmak"
+    },
+    {
+        "V1": "Grab",
+        "V2_V3": "Grabbed",
+        "Turkish": "Kapmak, zorla almak"
+    },
+    {
+        "V1": "Grate",
+        "V2_V3": "Grated",
+        "Turkish": "Rendelemek, gıcırdamak"
+    },
+    {
+        "V1": "Grease",
+        "V2_V3": "Greased",
+        "Turkish": "Yağlamak, yağ sürmek"
+    },
+    {
+        "V1": "Greet",
+        "V2_V3": "Greeted",
+        "Turkish": "Selamlamak, kutlamak"
+    },
+    {
+        "V1": "Grin",
+        "V2_V3": "Grinned",
+        "Turkish": "Sırıtmak"
+    },
+    {
+        "V1": "Grip",
+        "V2_V3": "Gripped",
+        "Turkish": "Kavramak, sıkıştırmak"
+    },
+    {
+        "V1": "Guarantee",
+        "V2_V3": "Guaranteed",
+        "Turkish": "Garanti etmek"
+    },
+    {
+        "V1": "Guard",
+        "V2_V3": "Guarded",
+        "Turkish": "Korumak, nöbet tutmak"
+    },
+    {
+        "V1": "Guess",
+        "V2_V3": "Guessed",
+        "Turkish": "Tahmin etmek, sezmek"
+    },
+    {
+        "V1": "Hammer",
+        "V2_V3": "Hammered",
+        "Turkish": "Çakmak, çekiçle vurmak"
+    },
+    {
+        "V1": "Handle",
+        "V2_V3": "Handled",
+        "Turkish": "Üstesinden gelmek"
+    },
+    {
+        "V1": "Hang",
+        "V2_V3": "Hanged",
+        "Turkish": "Asmak, sarkıtmak"
+    },
+    {
+        "V1": "Happen",
+        "V2_V3": "Happened",
+        "Turkish": "Olmak, meydana gelmek"
+    },
+    {
+        "V1": "Harm",
+        "V2_V3": "Harmed",
+        "Turkish": "Kötülük etmek, incitmek, zarar vermek"
+    },
+    {
+        "V1": "Hate",
+        "V2_V3": "Hated",
+        "Turkish": "Nefret etmek"
+    },
+    {
+        "V1": "Head",
+        "V2_V3": "Headed",
+        "Turkish": "Başı çekmek"
+    },
+    {
+        "V1": "Heal",
+        "V2_V3": "Healed",
+        "Turkish": "İyileşmek, iyileştirmek"
+    },
+    {
+        "V1": "Heat",
+        "V2_V3": "Heated",
+        "Turkish": "Isıtmak"
+    },
+    {
+        "V1": "Help",
+        "V2_V3": "Helped",
+        "Turkish": "Yardım etmek"
+    },
+    {
+        "V1": "Hook",
+        "V2_V3": "Hooked",
+        "Turkish": "Takmak, çengellemek"
+    },
+    {
+        "V1": "Hop",
+        "V2_V3": "Hopped",
+        "Turkish": "Atlamak, zıplamak"
+    },
+    {
+        "V1": "Hope",
+        "V2_V3": "Hoped",
+        "Turkish": "Ümit etmek, beklemek"
+    },
+    {
+        "V1": "Hover",
+        "V2_V3": "Hovered",
+        "Turkish": "Etrafında gezinmek, üstünde uçmak"
+    },
+    {
+        "V1": "Hug",
+        "V2_V3": "Hugged",
+        "Turkish": "Kucaklamak, sarılmak"
+    },
+    {
+        "V1": "Hum",
+        "V2_V3": "Hummed",
+        "Turkish": "Hımlamak"
+    },
+    {
+        "V1": "Hunt",
+        "V2_V3": "Hunted",
+        "Turkish": "Avlamak, avlanmak"
+    },
+    {
+        "V1": "Hurry",
+        "V2_V3": "Huried",
+        "Turkish": "Acele etmek"
+    },
+    {
+        "V1": "Identify",
+        "V2_V3": "Identified",
+        "Turkish": "Belirlemek, tanımak"
+    },
+    {
+        "V1": "Ignore",
+        "V2_V3": "Ignored",
+        "Turkish": "Görmezden gelmek, umursamamak"
+    },
+    {
+        "V1": "Imagine",
+        "V2_V3": "Imagined",
+        "Turkish": "Hayal etmek"
+    },
+    {
+        "V1": "Impress",
+        "V2_V3": "Impressed",
+        "Turkish": "Etkilemek, aklına sokmak"
+    },
+    {
+        "V1": "Improve",
+        "V2_V3": "Improved",
+        "Turkish": "Geliştirmek"
+    },
+    {
+        "V1": "Include",
+        "V2_V3": "Included",
+        "Turkish": "İçermek, dahil etmek"
+    },
+    {
+        "V1": "Increase",
+        "V2_V3": "Increased",
+        "Turkish": "Artırmak, büyümek, zam yapmak"
+    },
+    {
+        "V1": "Influence",
+        "V2_V3": "Influenced",
+        "Turkish": "Etkilemek, etkili olmak"
+    },
+    {
+        "V1": "Inform",
+        "V2_V3": "Informed",
+        "Turkish": "Bilgi vermek"
+    },
+    {
+        "V1": "Inject",
+        "V2_V3": "Injected",
+        "Turkish": "İğne yapmak"
+    },
+    {
+        "V1": "Injure",
+        "V2_V3": "Injured",
+        "Turkish": "Yaralamak, kötülük etmek"
+    },
+    {
+        "V1": "Instruct",
+        "V2_V3": "Instructed",
+        "Turkish": "Bilgilendirmek, öğretmek"
+    },
+    {
+        "V1": "Interest",
+        "V2_V3": "Interested",
+        "Turkish": "İlgilendirmek"
+    },
+    {
+        "V1": "Interfere",
+        "V2_V3": "Interfered",
+        "Turkish": "Müdahale etmek, girişmek"
+    },
+    {
+        "V1": "Interrupt",
+        "V2_V3": "Interrupted",
+        "Turkish": "Yarıda kesmek"
+    },
+    {
+        "V1": "Introduce",
+        "V2_V3": "Introduced",
+        "Turkish": "Tanıtmak"
+    },
+    {
+        "V1": "Invent",
+        "V2_V3": "Invented",
+        "Turkish": "İcat etmek"
+    },
+    {
+        "V1": "Invite",
+        "V2_V3": "Invited",
+        "Turkish": "Davet Etmek"
+    },
+    {
+        "V1": "Irritate",
+        "V2_V3": "Irritated",
+        "Turkish": "Kızdırmak, sinirini bozmak"
+    },
+    {
+        "V1": "Itch",
+        "V2_V3": "Itched",
+        "Turkish": "Kaşınmak"
+    },
+    {
+        "V1": "Jail",
+        "V2_V3": "Jailed",
+        "Turkish": "Tutuklamak"
+    },
+    {
+        "V1": "Jam",
+        "V2_V3": "Jammed",
+        "Turkish": "Basmak, sıkıştırmak"
+    },
+    {
+        "V1": "Jog",
+        "V2_V3": "Jogged",
+        "Turkish": "Dürtmek, jogging yapmak"
+    },
+    {
+        "V1": "Join",
+        "V2_V3": "Joined",
+        "Turkish": "Katılmak"
+    },
+    {
+        "V1": "Joke",
+        "V2_V3": "Joked",
+        "Turkish": "Şaka yapmak, fıkra anlatmak"
+    },
+    {
+        "V1": "Judge",
+        "V2_V3": "Judged",
+        "Turkish": "Yargılamak"
+    },
+    {
+        "V1": "Jump",
+        "V2_V3": "Jumped",
+        "Turkish": "Zıplamak"
+    },
+    {
+        "V1": "Kick",
+        "V2_V3": "Kicked",
+        "Turkish": "Tekme atmak"
+    },
+    {
+        "V1": "Kill",
+        "V2_V3": "Killed",
+        "Turkish": "Öndürmek, katletmek"
+    },
+    {
+        "V1": "Kiss",
+        "V2_V3": "Kissed",
+        "Turkish": "Öpmek"
+    },
+    {
+        "V1": "Kneel",
+        "V2_V3": "Kneeled",
+        "Turkish": "Diz çökmek"
+    },
+    {
+        "V1": "Knock",
+        "V2_V3": "Knocked",
+        "Turkish": "Vurmak, çarpmak"
+    },
+    {
+        "V1": "Knot",
+        "V2_V3": "Knotted",
+        "Turkish": "Düğüm atmak, bağlamak"
+    },
+    {
+        "V1": "Label",
+        "V2_V3": "Labeled",
+        "Turkish": "Etiketlemek, sınıflandırmak"
+    },
+    {
+        "V1": "Land",
+        "V2_V3": "Landed",
+        "Turkish": "Karaya çıkmak, indirmek"
+    },
+    {
+        "V1": "Laugh",
+        "V2_V3": "Laughed",
+        "Turkish": "Gülmek"
+    },
+    {
+        "V1": "Launch",
+        "V2_V3": "Launched",
+        "Turkish": "Başlatmak"
+    },
+    {
+        "V1": "Learn",
+        "V2_V3": "Learned",
+        "Turkish": "Öğrenmek"
+    },
+    {
+        "V1": "License",
+        "V2_V3": "Licensed",
+        "Turkish": "Yetki vermek"
+    },
+    {
+        "V1": "Lie",
+        "V2_V3": "Lied",
+        "Turkish": "Yalan söylemek, uzanmak"
+    },
+    {
+        "V1": "Lift",
+        "V2_V3": "Lifted",
+        "Turkish": "Kaldırmak, yükseltmek"
+    },
+    {
+        "V1": "Like",
+        "V2_V3": "Liked",
+        "Turkish": "Sevmek, hoşlanmak"
+    },
+    {
+        "V1": "List",
+        "V2_V3": "Listed",
+        "Turkish": "Listelemek"
+    },
+    {
+        "V1": "Listen",
+        "V2_V3": "Listened",
+        "Turkish": "Dinlemek"
+    },
+    {
+        "V1": "Live",
+        "V2_V3": "Lived",
+        "Turkish": "Yaşamak, hayatta kalmak"
+    },
+    {
+        "V1": "Load",
+        "V2_V3": "Loaded",
+        "Turkish": "Yüklemek"
+    },
+    {
+        "V1": "Lock",
+        "V2_V3": "Locked",
+        "Turkish": "Kilitlemek"
+    },
+    {
+        "V1": "Look",
+        "V2_V3": "Looked",
+        "Turkish": "Bakmak"
+    },
+    {
+        "V1": "Love",
+        "V2_V3": "Loved",
+        "Turkish": "Sevmek"
+    },
+    {
+        "V1": "Manage",
+        "V2_V3": "Managed",
+        "Turkish": "İşletmek, idare etmek"
+    },
+    {
+        "V1": "Mark",
+        "V2_V3": "Marked",
+        "Turkish": "İşaretlemek"
+    },
+    {
+        "V1": "Marry",
+        "V2_V3": "Married",
+        "Turkish": "Evlenmek"
+    },
+    {
+        "V1": "Match",
+        "V2_V3": "Matched",
+        "Turkish": "Eşlemek, karşılaştırmak"
+    },
+    {
+        "V1": "Mate",
+        "V2_V3": "Mated",
+        "Turkish": "Evlenmek, çiftleşmek, mat etmek"
+    },
+    {
+        "V1": "Measure",
+        "V2_V3": "Measured",
+        "Turkish": "Ölçmek"
+    },
+    {
+        "V1": "Melt",
+        "V2_V3": "Melted",
+        "Turkish": "Eritmek"
+    },
+    {
+        "V1": "Memorise",
+        "V2_V3": "Memorised",
+        "Turkish": "Ezberlemek"
+    },
+    {
+        "V1": "Miss",
+        "V2_V3": "Missed",
+        "Turkish": "Özlemek, kaçırmak"
+    },
+    {
+        "V1": "Move",
+        "V2_V3": "Moved",
+        "Turkish": "Hareket etmek, taşınmak, ilerlemek"
+    },
+    {
+        "V1": "Muddle",
+        "V2_V3": "Muddled",
+        "Turkish": "Yüzüne gözüne bulaştırmak"
+    },
+    {
+        "V1": "Mug",
+        "V2_V3": "Mugged",
+        "Turkish": "İneklemek, çok çalışmak"
+    },
+    {
+        "V1": "Multiply",
+        "V2_V3": "Multiplied",
+        "Turkish": "Çarpmak, çoğalmak"
+    },
+    {
+        "V1": "Murder",
+        "V2_V3": "Murdered",
+        "Turkish": "Öldürmek, cinayet işlemek"
+    },
+    {
+        "V1": "Need",
+        "V2_V3": "Needed",
+        "Turkish": "İhtiyacı olmak"
+    },
+    {
+        "V1": "Nest",
+        "V2_V3": "Nested",
+        "Turkish": "İç içe koymak, yuva yapmak"
+    },
+    {
+        "V1": "Nod",
+        "V2_V3": "Nodded",
+        "Turkish": "Kafa sallamak, başıyla selam vermek"
+    },
+    {
+        "V1": "Note",
+        "V2_V3": "Noted",
+        "Turkish": "Not etmek, dikkat etmek"
+    },
+    {
+        "V1": "Notice",
+        "V2_V3": "Noticed",
+        "Turkish": "Fark etmek, bildirmek"
+    },
+    {
+        "V1": "Obey",
+        "V2_V3": "Obeyed",
+        "Turkish": "İtaat etmek"
+    },
+    {
+        "V1": "Observe",
+        "V2_V3": "Observed",
+        "Turkish": "Görmek, incelemek, uymak"
+    },
+    {
+        "V1": "Obtain",
+        "V2_V3": "Obtained",
+        "Turkish": "Elde etmek"
+    },
+    {
+        "V1": "Occur",
+        "V2_V3": "Occurred",
+        "Turkish": "Meydana gelmek, oluşmak"
+    },
+    {
+        "V1": "Offend",
+        "V2_V3": "Offended",
+        "Turkish": "Gücendirmek, kırmak"
+    },
+    {
+        "V1": "Offer",
+        "V2_V3": "Offered",
+        "Turkish": "Teklif etmek"
+    },
+    {
+        "V1": "Open",
+        "V2_V3": "Opened",
+        "Turkish": "Açmak"
+    },
+    {
+        "V1": "Order",
+        "V2_V3": "Ordered",
+        "Turkish": "Sipariş vermek, emretmek"
+    },
+    {
+        "V1": "Overflow",
+        "V2_V3": "Overflowed",
+        "Turkish": "Taşmak, dışına taşmak"
+    },
+    {
+        "V1": "Owe",
+        "V2_V3": "Owed",
+        "Turkish": "Borçlu olmak"
+    },
+    {
+        "V1": "Own",
+        "V2_V3": "Owned",
+        "Turkish": "Sahip olmak"
+    },
+    {
+        "V1": "Pack",
+        "V2_V3": "Packed",
+        "Turkish": "Paketlemek"
+    },
+    {
+        "V1": "Paddle",
+        "V2_V3": "Paddled",
+        "Turkish": "Kürek çekmek"
+    },
+    {
+        "V1": "Paint",
+        "V2_V3": "Painted",
+        "Turkish": "Boyamak, resim yapmak"
+    },
+    {
+        "V1": "Park",
+        "V2_V3": "Parked",
+        "Turkish": "Park etmek"
+    },
+    {
+        "V1": "Pass",
+        "V2_V3": "Passed",
+        "Turkish": "Geçmek"
+    },
+    {
+        "V1": "Paste",
+        "V2_V3": "Pasted",
+        "Turkish": "Yapıştırmak"
+    },
+    {
+        "V1": "Pause",
+        "V2_V3": "Paused",
+        "Turkish": "Ara vermek, tereddüt etmek"
+    },
+    {
+        "V1": "Perform",
+        "V2_V3": "Performed",
+        "Turkish": "Yerine getirmek, uygulamak"
+    },
+    {
+        "V1": "Permit",
+        "V2_V3": "Permited",
+        "Turkish": "İzin vermek"
+    },
+    {
+        "V1": "Phone",
+        "V2_V3": "Phoned",
+        "Turkish": "Telefon etmek"
+    },
+    {
+        "V1": "Pick",
+        "V2_V3": "Picked",
+        "Turkish": "Seçmek"
+    },
+    {
+        "V1": "Pinch",
+        "V2_V3": "Pinched",
+        "Turkish": "Kıstırmak, çimdiklemek"
+    },
+    {
+        "V1": "Pine",
+        "V2_V3": "Pined",
+        "Turkish": "Özlemek, burnunda tütmek"
+    },
+    {
+        "V1": "Place",
+        "V2_V3": "Placed",
+        "Turkish": "Yerleştirmek, koymak"
+    },
+    {
+        "V1": "Plan",
+        "V2_V3": "Planned",
+        "Turkish": "Planlamak"
+    },
+    {
+        "V1": "Plant",
+        "V2_V3": "Planted",
+        "Turkish": "Dikmek, ekmek"
+    },
+    {
+        "V1": "Play",
+        "V2_V3": "Played",
+        "Turkish": "Oynamak"
+    },
+    {
+        "V1": "Plug",
+        "V2_V3": "Plugged",
+        "Turkish": "Tıkamak"
+    },
+    {
+        "V1": "Point",
+        "V2_V3": "Pointed",
+        "Turkish": "İşaret etmek"
+    },
+    {
+        "V1": "Poke",
+        "V2_V3": "Poked",
+        "Turkish": "Kurcalamak, karıştırmak"
+    },
+    {
+        "V1": "Possess",
+        "V2_V3": "Possessed",
+        "Turkish": "Sahip olmak"
+    },
+    {
+        "V1": "Post",
+        "V2_V3": "Posted",
+        "Turkish": "Postalamak"
+    },
+    {
+        "V1": "Pour",
+        "V2_V3": "Poured",
+        "Turkish": "Dökmek"
+    },
+    {
+        "V1": "Practice",
+        "V2_V3": "Practiced",
+        "Turkish": "Uygulamak, pratik yapmak"
+    },
+    {
+        "V1": "Pray",
+        "V2_V3": "Prayed",
+        "Turkish": "Dua etmek"
+    },
+    {
+        "V1": "Precede",
+        "V2_V3": "Preceded",
+        "Turkish": "Önce gelmek"
+    },
+    {
+        "V1": "Prefer",
+        "V2_V3": "Prefered",
+        "Turkish": "Tercih etmek"
+    },
+    {
+        "V1": "Prepare",
+        "V2_V3": "Prepared",
+        "Turkish": "Hazırlık yapmak"
+    },
+    {
+        "V1": "Press",
+        "V2_V3": "Pressed",
+        "Turkish": "Baskı yapmak"
+    },
+    {
+        "V1": "Pretend",
+        "V2_V3": "Pretended",
+        "Turkish": "Numara yapmak"
+    },
+    {
+        "V1": "Prevent",
+        "V2_V3": "Prevented",
+        "Turkish": "Yol göstermek"
+    },
+    {
+        "V1": "Print",
+        "V2_V3": "Printed",
+        "Turkish": "Basmak, yayınlamak"
+    },
+    {
+        "V1": "Produce",
+        "V2_V3": "Produced",
+        "Turkish": "Üretmek"
+    },
+    {
+        "V1": "Promise",
+        "V2_V3": "Promised",
+        "Turkish": "Söz vermek, umut vermek"
+    },
+    {
+        "V1": "Protect",
+        "V2_V3": "Protected",
+        "Turkish": "Korumak"
+    },
+    {
+        "V1": "Provide",
+        "V2_V3": "Provided",
+        "Turkish": "Temin etmek, şart koşmak"
+    },
+    {
+        "V1": "Pull",
+        "V2_V3": "Pulled",
+        "Turkish": "Çekmek"
+    },
+    {
+        "V1": "Pump",
+        "V2_V3": "Pumped",
+        "Turkish": "Pompalamak"
+    },
+    {
+        "V1": "Punch",
+        "V2_V3": "Punched",
+        "Turkish": "Yumruklamak"
+    },
+    {
+        "V1": "Puncture",
+        "V2_V3": "Punctured",
+        "Turkish": "Delmek, patlatmak"
+    },
+    {
+        "V1": "Punish",
+        "V2_V3": "Punished",
+        "Turkish": "Cezalandırmak"
+    },
+    {
+        "V1": "Push",
+        "V2_V3": "Pushed",
+        "Turkish": "İtmek"
+    },
+    {
+        "V1": "Question",
+        "V2_V3": "Questioned",
+        "Turkish": "Soru sormak"
+    },
+    {
+        "V1": "Race",
+        "V2_V3": "Raced",
+        "Turkish": "Yarışmak, yarıştırmak"
+    },
+    {
+        "V1": "Rain",
+        "V2_V3": "Rained",
+        "Turkish": "Yağmur yağmak, yağdırmak"
+    },
+    {
+        "V1": "Raise",
+        "V2_V3": "Raised",
+        "Turkish": "Yükseltmek, yetiştirmek"
+    },
+    {
+        "V1": "Reach",
+        "V2_V3": "Reached",
+        "Turkish": "Ulaşmak"
+    },
+    {
+        "V1": "Realise",
+        "V2_V3": "Realised",
+        "Turkish": "Fark etmek"
+    },
+    {
+        "V1": "Receive",
+        "V2_V3": "Received",
+        "Turkish": "Almak, kabul etmek"
+    },
+    {
+        "V1": "Recognise",
+        "V2_V3": "Recognised",
+        "Turkish": "Tanımak, farkına varmak"
+    },
+    {
+        "V1": "Record",
+        "V2_V3": "Recorded",
+        "Turkish": "Kaydetmek"
+    },
+    {
+        "V1": "Reduce",
+        "V2_V3": "Reduced",
+        "Turkish": "Azaltmak, kısmak"
+    },
+    {
+        "V1": "Reflect",
+        "V2_V3": "Reflected",
+        "Turkish": "Yansıtmak, ifade etmek"
+    },
+    {
+        "V1": "Refuse",
+        "V2_V3": "Refused",
+        "Turkish": "Reddetmek, kaçınmak"
+    },
+    {
+        "V1": "Regret",
+        "V2_V3": "Regretted",
+        "Turkish": "Pişman olmak"
+    },
+    {
+        "V1": "Reject",
+        "V2_V3": "Rejected",
+        "Turkish": "Reddetmek, çıkarmak"
+    },
+    {
+        "V1": "Rejoice",
+        "V2_V3": "Rejoiced",
+        "Turkish": "Sevinmek"
+    },
+    {
+        "V1": "Release",
+        "V2_V3": "Released",
+        "Turkish": "Salıvermek, serbest bırakmak"
+    },
+    {
+        "V1": "Rely",
+        "V2_V3": "Relied",
+        "Turkish": "İnanmak"
+    },
+    {
+        "V1": "Remain",
+        "V2_V3": "Remained",
+        "Turkish": "Kalmak, sürünmek"
+    },
+    {
+        "V1": "Remember",
+        "V2_V3": "Remembered",
+        "Turkish": "Hatırlamak"
+    },
+    {
+        "V1": "Remind",
+        "V2_V3": "Reminded",
+        "Turkish": "Hatırlatmak"
+    },
+    {
+        "V1": "Remove",
+        "V2_V3": "Removed",
+        "Turkish": "Uzaklaştırmak"
+    },
+    {
+        "V1": "Repair",
+        "V2_V3": "Repaired",
+        "Turkish": "Onarmak, tamir etmek"
+    },
+    {
+        "V1": "Repeat",
+        "V2_V3": "Repeated",
+        "Turkish": "Tekrar etmek"
+    },
+    {
+        "V1": "Replace",
+        "V2_V3": "Replaced",
+        "Turkish": "Yer değiştirmek"
+    },
+    {
+        "V1": "Reply",
+        "V2_V3": "Replied",
+        "Turkish": "Yanıtlamak, karşılık vermek"
+    },
+    {
+        "V1": "Reproduce",
+        "V2_V3": "Reproduced",
+        "Turkish": "Yeniden üretmek, çoğalmak"
+    },
+    {
+        "V1": "Request",
+        "V2_V3": "Requested",
+        "Turkish": "Talep etmek"
+    },
+    {
+        "V1": "Rescue",
+        "V2_V3": "Rescued",
+        "Turkish": "Kurtarmak, muaf tutmak"
+    },
+    {
+        "V1": "Retire",
+        "V2_V3": "Retired",
+        "Turkish": "Emekli olmak, çekilmek"
+    },
+    {
+        "V1": "Return",
+        "V2_V3": "Returned",
+        "Turkish": "Geri dönmek"
+    },
+    {
+        "V1": "Rinse",
+        "V2_V3": "Rinsed",
+        "Turkish": "Durulamak, çalkalamak"
+    },
+    {
+        "V1": "Risk",
+        "V2_V3": "Risked",
+        "Turkish": "Göze almak, riske atmak"
+    },
+    {
+        "V1": "Rob",
+        "V2_V3": "Robbed",
+        "Turkish": "Çalmak, zorla almak"
+    },
+    {
+        "V1": "Roll",
+        "V2_V3": "Rolled",
+        "Turkish": "Yuvarlamak"
+    },
+    {
+        "V1": "Rush",
+        "V2_V3": "Rushed",
+        "Turkish": "Acele etmek"
+    },
+    {
+        "V1": "Satisfy",
+        "V2_V3": "Satisfied",
+        "Turkish": "Memnun etmek"
+    },
+    {
+        "V1": "Save",
+        "V2_V3": "Saved",
+        "Turkish": "Biriktirmek, kurtarmak, korumak"
+    },
+    {
+        "V1": "Scare",
+        "V2_V3": "Scared",
+        "Turkish": "Korkmak, korkutmak"
+    },
+    {
+        "V1": "Scatter",
+        "V2_V3": "Scattered",
+        "Turkish": "Saçmak, dağıtmak"
+    },
+    {
+        "V1": "Scrape",
+        "V2_V3": "Scraped",
+        "Turkish": "Kazımak, sıyırmak"
+    },
+    {
+        "V1": "Scratch",
+        "V2_V3": "Scratched",
+        "Turkish": "Kaşımak, tırmalamak"
+    },
+    {
+        "V1": "Scream",
+        "V2_V3": "Screamed",
+        "Turkish": "Çığlık atmak"
+    },
+    {
+        "V1": "Scribble",
+        "V2_V3": "Scribbled",
+        "Turkish": "Karalamak, eğri büğrü yazmak"
+    },
+    {
+        "V1": "Seal",
+        "V2_V3": "Sealed",
+        "Turkish": "Mühürlemek, kapatmak"
+    },
+    {
+        "V1": "Search",
+        "V2_V3": "Searched",
+        "Turkish": "Aramak"
+    },
+    {
+        "V1": "Separate",
+        "V2_V3": "Separated",
+        "Turkish": "Ayırmak"
+    },
+    {
+        "V1": "Serve",
+        "V2_V3": "Served",
+        "Turkish": "Hizmet vermek, servis yapmak"
+    },
+    {
+        "V1": "Settle",
+        "V2_V3": "Settled",
+        "Turkish": "Yerleşmek, yerleştirmek, ödemek"
+    },
+    {
+        "V1": "Shade",
+        "V2_V3": "Shaded",
+        "Turkish": "Gölgelemek, dönüşmek"
+    },
+    {
+        "V1": "Share",
+        "V2_V3": "Shared",
+        "Turkish": "Paylaşmak, katılmak, iştirak etmek"
+    },
+    {
+        "V1": "Shave",
+        "V2_V3": "Shaved",
+        "Turkish": "Tıraş olmak, rendelemek"
+    },
+    {
+        "V1": "Shiver",
+        "V2_V3": "Shivered",
+        "Turkish": "Titremek, ürpermek"
+    },
+    {
+        "V1": "Shock",
+        "V2_V3": "Shocked",
+        "Turkish": "Şok etmek, şaşkına dönmek"
+    },
+    {
+        "V1": "Shop",
+        "V2_V3": "Shoped",
+        "Turkish": "Alışveriş yapmak"
+    },
+    {
+        "V1": "Sigh",
+        "V2_V3": "Sighed",
+        "Turkish": "İç çekmek"
+    },
+    {
+        "V1": "Sign",
+        "V2_V3": "Signed",
+        "Turkish": "İmzalamak"
+    },
+    {
+        "V1": "Skip",
+        "V2_V3": "Skipped",
+        "Turkish": "Atlamak, sıçramak"
+    },
+    {
+        "V1": "Slap",
+        "V2_V3": "Slapped",
+        "Turkish": "Tokat atmak"
+    },
+    {
+        "V1": "Slip",
+        "V2_V3": "Slipped",
+        "Turkish": "Kaymak"
+    },
+    {
+        "V1": "Smash",
+        "V2_V3": "Smashed",
+        "Turkish": "Paramparça etmek"
+    },
+    {
+        "V1": "Smell",
+        "V2_V3": "Smelled",
+        "Turkish": "Kokmak, sezmek"
+    },
+    {
+        "V1": "Smile",
+        "V2_V3": "Smiled",
+        "Turkish": "Gülümsemek"
+    },
+    {
+        "V1": "Smoke",
+        "V2_V3": "Smoked",
+        "Turkish": "Tütmek, sigara içmek"
+    },
+    {
+        "V1": "Snatch",
+        "V2_V3": "Snatched",
+        "Turkish": "Kapmak, koparmak"
+    },
+    {
+        "V1": "Sneeze",
+        "V2_V3": "Sneezed",
+        "Turkish": "Hapşırmak"
+    },
+    {
+        "V1": "Snore",
+        "V2_V3": "Snored",
+        "Turkish": "Horlamak"
+    },
+    {
+        "V1": "Soak",
+        "V2_V3": "Soaked",
+        "Turkish": "Emmek"
+    },
+    {
+        "V1": "Soothe",
+        "V2_V3": "Soothed",
+        "Turkish": "Yatıştırmak"
+    },
+    {
+        "V1": "Sound",
+        "V2_V3": "Sounded",
+        "Turkish": "Ses çıkarmak"
+    },
+    {
+        "V1": "Spark",
+        "V2_V3": "Sparked",
+        "Turkish": "Teşvik etmek, uyandırmak"
+    },
+    {
+        "V1": "Sparkle",
+        "V2_V3": "Sparkled",
+        "Turkish": "Parlamak, ışıldamak"
+    },
+    {
+        "V1": "Spell",
+        "V2_V3": "Spelled",
+        "Turkish": "Hecelemek"
+    },
+    {
+        "V1": "Spot",
+        "V2_V3": "Spotted",
+        "Turkish": "Benek benek olmak"
+    },
+    {
+        "V1": "Stamp",
+        "V2_V3": "Stamped",
+        "Turkish": "Damgalamak"
+    },
+    {
+        "V1": "Stare",
+        "V2_V3": "Stared",
+        "Turkish": "Gözünü dikmek"
+    },
+    {
+        "V1": "Start",
+        "V2_V3": "Started",
+        "Turkish": "Başlamak"
+    },
+    {
+        "V1": "Step",
+        "V2_V3": "Stepped",
+        "Turkish": "Adım atmak"
+    },
+    {
+        "V1": "Stir",
+        "V2_V3": "Stired",
+        "Turkish": "Karıştırmak"
+    },
+    {
+        "V1": "Stop",
+        "V2_V3": "Stopped",
+        "Turkish": "Durmak"
+    },
+    {
+        "V1": "Strap",
+        "V2_V3": "Strapped",
+        "Turkish": "Bantlamak, sarmak"
+    },
+    {
+        "V1": "Stretch",
+        "V2_V3": "Stretched",
+        "Turkish": "Germek, uzatmak"
+    },
+    {
+        "V1": "Stroke",
+        "V2_V3": "Stroked",
+        "Turkish": "Sıvazlamak, okşamak"
+    },
+    {
+        "V1": "Suffer",
+        "V2_V3": "Suffered",
+        "Turkish": "Acı çekmek, katlanmak"
+    },
+    {
+        "V1": "Suggest",
+        "V2_V3": "Suggested",
+        "Turkish": "Tavsiye etmek"
+    },
+    {
+        "V1": "Supply",
+        "V2_V3": "Supplied",
+        "Turkish": "Sağlamak, tedarik etmek"
+    },
+    {
+        "V1": "Support",
+        "V2_V3": "Supported",
+        "Turkish": "Desteklemek"
+    },
+    {
+        "V1": "Suppose",
+        "V2_V3": "Supposed",
+        "Turkish": "Varsaymak, tahmin etmek"
+    },
+    {
+        "V1": "Surprise",
+        "V2_V3": "Surprised",
+        "Turkish": "Sürpriz yapmak, oyuna getirmek"
+    },
+    {
+        "V1": "Surround",
+        "V2_V3": "Surrounded",
+        "Turkish": "Kuşatmak, sarmak"
+    },
+    {
+        "V1": "Suspect",
+        "V2_V3": "Suspected",
+        "Turkish": "Süphelenmek"
+    },
+    {
+        "V1": "Suspend",
+        "V2_V3": "Suspended",
+        "Turkish": "Askıya almak, durdurmak"
+    },
+    {
+        "V1": "Switch",
+        "V2_V3": "Switched",
+        "Turkish": "Değiştirmek"
+    },
+    {
+        "V1": "Talk",
+        "V2_V3": "Talked",
+        "Turkish": "Konuşmak"
+    },
+    {
+        "V1": "Tap",
+        "V2_V3": "Tapped",
+        "Turkish": "Musluğu açmak, para sızdırmak"
+    },
+    {
+        "V1": "Taste",
+        "V2_V3": "Tasted",
+        "Turkish": "Tadına bakmak"
+    },
+    {
+        "V1": "Tease",
+        "V2_V3": "Teased",
+        "Turkish": "Kızdırmak, alay etmek"
+    },
+    {
+        "V1": "Telephone",
+        "V2_V3": "Telephoned",
+        "Turkish": "Telefon etmek, telefonda söylemek"
+    },
+    {
+        "V1": "Terrify",
+        "V2_V3": "Terrified",
+        "Turkish": "Dünü patlatmak"
+    },
+    {
+        "V1": "Test",
+        "V2_V3": "TestedTest etmek"
+    },
+    {
+        "V1": "Thank",
+        "V2_V3": "Thanked",
+        "Turkish": "Teşekkür etmek"
+    },
+    {
+        "V1": "Tickle",
+        "V2_V3": "Tickled",
+        "Turkish": "Gıdıklamak, güldürmek"
+    },
+    {
+        "V1": "Tie",
+        "V2_V3": "Tied",
+        "Turkish": "Bağlamak"
+    },
+    {
+        "V1": "Tip",
+        "V2_V3": "Tipped",
+        "Turkish": "Bahşiş vermek"
+    },
+    {
+        "V1": "Tire",
+        "V2_V3": "Tired",
+        "Turkish": "Yorulmak, bıkmak, dekore etmek"
+    },
+    {
+        "V1": "Touch",
+        "V2_V3": "Touched",
+        "Turkish": "Dokunmak, etkilemek"
+    },
+    {
+        "V1": "Tour",
+        "V2_V3": "Toured",
+        "Turkish": "Gezmek, tur yapmak"
+    },
+    {
+        "V1": "Tow",
+        "V2_V3": "Towed",
+        "Turkish": "Çekmek, çekici ile çekmek"
+    },
+    {
+        "V1": "Trace",
+        "V2_V3": "Traced",
+        "Turkish": "İzinden gitmek, kopya çekmek, tasarlamak"
+    },
+    {
+        "V1": "Trade",
+        "V2_V3": "Traded",
+        "Turkish": "Ticaret yapmak, takas etmek"
+    },
+    {
+        "V1": "Train",
+        "V2_V3": "Trained",
+        "Turkish": "Eğitmek"
+    },
+    {
+        "V1": "Trap",
+        "V2_V3": "Trapped",
+        "Turkish": "Yakalamak, tuzağa düşürmek"
+    },
+    {
+        "V1": "Travel",
+        "V2_V3": "Traveled",
+        "Turkish": "Seyahat etmek"
+    },
+    {
+        "V1": "Treat",
+        "V2_V3": "Treated",
+        "Turkish": "Muamele etmek"
+    },
+    {
+        "V1": "Trick",
+        "V2_V3": "Tricked",
+        "Turkish": "Kandırmak, oyuna getirmek"
+    },
+    {
+        "V1": "Trip",
+        "V2_V3": "Tripped",
+        "Turkish": "Çelme takmak, düşürmek"
+    },
+    {
+        "V1": "Trouble",
+        "V2_V3": "Troubled",
+        "Turkish": "Sorun çıkarmak, rahatsız etmek"
+    },
+    {
+        "V1": "Trust",
+        "V2_V3": "Trusted",
+        "Turkish": "Güvenmek"
+    },
+    {
+        "V1": "Try",
+        "V2_V3": "Tried",
+        "Turkish": "Denemek"
+    },
+    {
+        "V1": "Tumble",
+        "V2_V3": "Tumble",
+        "Turkish": "Düşmek, takla atmak"
+    },
+    {
+        "V1": "Turn",
+        "V2_V3": "Turned",
+        "Turkish": "Dönmek, çevirmek"
+    },
+    {
+        "V1": "Twist",
+        "V2_V3": "Twisted",
+        "Turkish": "Bükmek, çarpıtmak"
+    },
+    {
+        "V1": "Type",
+        "V2_V3": "Typed",
+        "Turkish": "Daktilo ile yazmak"
+    },
+    {
+        "V1": "Undress",
+        "V2_V3": "Undressed",
+        "Turkish": "Soyunmak"
+    },
+    {
+        "V1": "Unlock",
+        "V2_V3": "Unlocked",
+        "Turkish": "Kilidini açmak"
+    },
+    {
+        "V1": "Unpack",
+        "V2_V3": "Unpacked",
+        "Turkish": "Paketini açmak"
+    },
+    {
+        "V1": "Untidy",
+        "V2_V3": "Untidied",
+        "Turkish": "Dağıtmak"
+    },
+    {
+        "V1": "Use",
+        "V2_V3": "Used",
+        "Turkish": "Kullanmak, yararlanmak"
+    },
+    {
+        "V1": "Visit",
+        "V2_V3": "Visited",
+        "Turkish": "Ziyaret etmek"
+    },
+    {
+        "V1": "Wail",
+        "V2_V3": "Wailed",
+        "Turkish": "Feryat etmek, ağıt yakmak"
+    },
+    {
+        "V1": "Wait",
+        "V2_V3": "Waited",
+        "Turkish": "Beklemek"
+    },
+    {
+        "V1": "Walk",
+        "V2_V3": "Walked",
+        "Turkish": "Yürümek"
+    },
+    {
+        "V1": "Wander",
+        "V2_V3": "Wandered",
+        "Turkish": "Gezmek, dolaşmak"
+    },
+    {
+        "V1": "Want",
+        "V2_V3": "Wanted",
+        "Turkish": "İstemek"
+    },
+    {
+        "V1": "Warm",
+        "V2_V3": "Warmed",
+        "Turkish": "Isıtmak, ısınmak"
+    },
+    {
+        "V1": "Warn",
+        "V2_V3": "Warned",
+        "Turkish": "Uyarmak, ihbar etmek"
+    },
+    {
+        "V1": "Wash",
+        "V2_V3": "Washed",
+        "Turkish": "Yıkamak, yıkanmak"
+    },
+    {
+        "V1": "Waste",
+        "V2_V3": "Wasted",
+        "Turkish": "Harcamak"
+    },
+    {
+        "V1": "Watch",
+        "V2_V3": "Watched",
+        "Turkish": "İzlemek"
+    },
+    {
+        "V1": "Water",
+        "V2_V3": "Watered",
+        "Turkish": "Sulamak"
+    },
+    {
+        "V1": "Wave",
+        "V2_V3": "Waved",
+        "Turkish": "El sallamak, dalgalanmak"
+    },
+    {
+        "V1": "Whine",
+        "V2_V3": "Whined",
+        "Turkish": "Sızlanmak"
+    },
+    {
+        "V1": "Whip",
+        "V2_V3": "Whipped",
+        "Turkish": "Kamçılamak, çırpmak"
+    },
+    {
+        "V1": "Whirl",
+        "V2_V3": "Whirled",
+        "Turkish": "Fırıl fırıl dönmek"
+    },
+    {
+        "V1": "Whisper",
+        "V2_V3": "Whispered",
+        "Turkish": "Fısıldamak, dedikodu yapmak"
+    },
+    {
+        "V1": "Whistle",
+        "V2_V3": "Whistled",
+        "Turkish": "Islık çalmak"
+    },
+    {
+        "V1": "Wipe",
+        "V2_V3": "Wiped",
+        "Turkish": "Temizlemek, kurulamak"
+    },
+    {
+        "V1": "Wish",
+        "V2_V3": "Wished",
+        "Turkish": "Dilemek, ummak"
+    },
+    {
+        "V1": "Wonder",
+        "V2_V3": "Wondered",
+        "Turkish": "Merak etmek, şaşmak"
+    },
+    {
+        "V1": "Work",
+        "V2_V3": "Worked",
+        "Turkish": "Çalışmak, iş yapmak"
+    },
+    {
+        "V1": "Worry",
+        "V2_V3": "Worried",
+        "Turkish": "Korkmak, endişe etmek"
+    },
+    {
+        "V1": "Wrap",
+        "V2_V3": "Wrapped",
+        "Turkish": "Sarmak, paketlemek"
+    },
+    {
+        "V1": "Wrestle",
+        "V2_V3": "Wrestled",
+        "Turkish": "Mücadele etmek, güreşmek"
+    },
+    {
+        "V1": "Wriggle",
+        "V2_V3": "Wriggled",
+        "Turkish": "Çalkalamak, kıvırmak"
+    },
+    {
+        "V1": "Zip",
+        "V2_V3": "Zipped",
+        "Turkish": "Süslemek, gayretli olmak"
+    }
+]
